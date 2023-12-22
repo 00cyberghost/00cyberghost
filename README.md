@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @00cyberghost
 - 👀 I’m interested in web and app development
-- I am a full stack web developer with the following skills HTML5, CSS3, bootstrap, Javascript, Jquery, Vue.js,PHP,mysql,sqlite,laravel,inertia,nuxt.js,apache cordova,capacitor and aws
+- I am a full stack web developer with the following skills HTML5, CSS3, bootstrap, Javascript, Jquery, Vue.js,PHP,node.js,react,next.js,mysql,sqlite,laravel,inertia,nuxt.js,apache cordova,capacitor and aws
 - i build mobile apps with apache cordova and capacitor
 - i have worked with third party solutions like google maps,flutterwave,paystack etc
 - 💞️ I’m looking to collaborate on very big laravel projects
