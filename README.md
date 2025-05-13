@@ -4,7 +4,7 @@
 - i build mobile apps with apache cordova and capacitor
 - i have worked with third party solutions like google maps,flutterwave,paystack etc
 - 💞️ I’m looking to collaborate on very big laravel projects
-- i am currently working a florida based startup
+- i am currently working for a florida based startup
 - 📫 How to reach me 00cyberghost@gmail.com or ozorclinton@gmail.com
 -     visit my website on www.cybaghost.com.ng
 <!---
